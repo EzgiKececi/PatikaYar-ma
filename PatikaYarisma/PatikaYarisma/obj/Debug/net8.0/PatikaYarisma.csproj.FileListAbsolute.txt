@@ -1,0 +1,14 @@
+C:\Users\EZGİ\Source\Repos\PatikaYarisma\PatikaYarisma\bin\Debug\net8.0\PatikaYarisma.exe
+C:\Users\EZGİ\Source\Repos\PatikaYarisma\PatikaYarisma\bin\Debug\net8.0\PatikaYarisma.deps.json
+C:\Users\EZGİ\Source\Repos\PatikaYarisma\PatikaYarisma\bin\Debug\net8.0\PatikaYarisma.runtimeconfig.json
+C:\Users\EZGİ\Source\Repos\PatikaYarisma\PatikaYarisma\bin\Debug\net8.0\PatikaYarisma.dll
+C:\Users\EZGİ\Source\Repos\PatikaYarisma\PatikaYarisma\bin\Debug\net8.0\PatikaYarisma.pdb
+C:\Users\EZGİ\Source\Repos\PatikaYarisma\PatikaYarisma\obj\Debug\net8.0\PatikaYarisma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EZGİ\Source\Repos\PatikaYarisma\PatikaYarisma\obj\Debug\net8.0\PatikaYarisma.AssemblyInfoInputs.cache
+C:\Users\EZGİ\Source\Repos\PatikaYarisma\PatikaYarisma\obj\Debug\net8.0\PatikaYarisma.AssemblyInfo.cs
+C:\Users\EZGİ\Source\Repos\PatikaYarisma\PatikaYarisma\obj\Debug\net8.0\PatikaYarisma.csproj.CoreCompileInputs.cache
+C:\Users\EZGİ\Source\Repos\PatikaYarisma\PatikaYarisma\obj\Debug\net8.0\PatikaYarisma.dll
+C:\Users\EZGİ\Source\Repos\PatikaYarisma\PatikaYarisma\obj\Debug\net8.0\refint\PatikaYarisma.dll
+C:\Users\EZGİ\Source\Repos\PatikaYarisma\PatikaYarisma\obj\Debug\net8.0\PatikaYarisma.pdb
+C:\Users\EZGİ\Source\Repos\PatikaYarisma\PatikaYarisma\obj\Debug\net8.0\PatikaYarisma.genruntimeconfig.cache
+C:\Users\EZGİ\Source\Repos\PatikaYarisma\PatikaYarisma\obj\Debug\net8.0\ref\PatikaYarisma.dll
